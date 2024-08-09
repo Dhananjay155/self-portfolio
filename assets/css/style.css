@@ -9377,7 +9377,7 @@ figcaption {
   .slide.slider-style-1 {
     padding-top: 150px; }
     @media only screen and (min-width: 991px) and (max-width: 2560px) {
-      .inner img  {
+      .inner-1 img  {
         margin-top: -200px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .slide.slider-style-1  {

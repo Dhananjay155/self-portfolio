@@ -9376,8 +9376,11 @@ figcaption {
         border-radius: 6px; }
   .slide.slider-style-1 {
     padding-top: 150px; }
+    @media only screen and (min-width: 991px) and (max-width: 2560px) {
+      .inner img  {
+        margin-top: -200px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .slide.slider-style-1 {
+      .slide.slider-style-1  {
         padding-top: 100px; } }
     @media only screen and (max-width: 767px) {
       .slide.slider-style-1 {
